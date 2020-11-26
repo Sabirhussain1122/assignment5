@@ -12,7 +12,7 @@
         android:layout_height="50dp"
         android:hint="inter your father name...."
         android:textSize="30sp"
-        android:textColorHint="@color/black"/>
+        android:textColorHint="@android:color/holo_red_light"/>
     <Button
         android:id="@+id/button3"
         android:layout_marginTop="50sp"
